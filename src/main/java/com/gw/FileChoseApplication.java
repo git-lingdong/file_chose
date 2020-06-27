@@ -6,9 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FileChoseApplication {
 
-    //ceshi
-    //ioioi
-    public static void main(String[] args) {SpringApplication.run(FileChoseApplication.class, args);
+       public static void main(String[] args) {SpringApplication.run(FileChoseApplication.class, args);
     }
 
 }
